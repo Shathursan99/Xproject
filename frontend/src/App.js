@@ -9,7 +9,8 @@ import LandingPage from './Pages/LandingPage/LandingPage';
 function App() {
   return (
     <div className="App">
-      <Navigation/>
+      <Navigation />
+      
       <LandingPage/>
     </div>
   );
