@@ -61,7 +61,10 @@ const Features = () => {
                     </div>
     
                 </div>
-            </div>
+          </div>
+          <div className="feature-button">
+              <button className='Button feature-but'>EXPLORE CLASSES</button>
+          </div>
         </div>
   )
 }
